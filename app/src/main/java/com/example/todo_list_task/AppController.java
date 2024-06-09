@@ -35,7 +35,6 @@ public class AppController extends Application implements ComponentCallbacks2 {
                         .build()
         );
     }
-
     @Override
     protected void attachBaseContext(Context base) {
         super.attachBaseContext(base);

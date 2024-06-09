@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470359013339",
+    "project_id": "todo-list-task-88eb5",
+    "storage_bucket": "todo-list-task-88eb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470359013339:android:5b902f692d8b19753d59fe",
+        "android_client_info": {
+          "package_name": "com.codegama.todolistapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiO_UVrVc4NCbe1pc_xdjUWagWNK-GSsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
